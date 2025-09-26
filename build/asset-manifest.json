@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wtm.com/static/css/main.e6c13ad2.css",
+    "main.js": "/wtm.com/static/js/main.ea7fefa2.js",
+    "static/js/453.a0417380.chunk.js": "/wtm.com/static/js/453.a0417380.chunk.js",
+    "index.html": "/wtm.com/index.html",
+    "main.e6c13ad2.css.map": "/wtm.com/static/css/main.e6c13ad2.css.map",
+    "main.ea7fefa2.js.map": "/wtm.com/static/js/main.ea7fefa2.js.map",
+    "453.a0417380.chunk.js.map": "/wtm.com/static/js/453.a0417380.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ea7fefa2.js"
+  ]
+}
